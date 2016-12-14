@@ -1,0 +1,4 @@
+# This file is notes about bingsuns
+
+# 1. how to login into bingsuns using mac
+ssh -X gzhang13@bingsuns.binghamton.edu
