@@ -1,0 +1,1 @@
+=VLOOKUP($C2,'[total.xlsx]1987'!$J$2:'[total.xlsx]1987'!$K$5000,2,0)
