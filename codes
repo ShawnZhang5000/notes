@@ -1,3 +1,3 @@
-=VLOOKUP($D2,'[total.xlsx]1987'!$J$2:'[total.xlsx]1987'!$K$5000,2,0)
+=VLOOKUP($D2,'[total.xlsx]2013'!$J$2:'[total.xlsx]2013'!$K$5000,2,0)
 
-=VLOOKUP($J2,[1988.xlsx]WRDS!$D$2:[1988.xlsx]WRDS!$E$16993,2,0)
+=VLOOKUP($J2,[2013.xlsx]WRDS!$D$2:[2013.xlsx]WRDS!$E$16993,2,0)
