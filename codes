@@ -2,6 +2,8 @@
 
 =VLOOKUP($J2,[2013.xlsx]WRDS!$D$2:[2013.xlsx]WRDS!$E$16993,2,0)
 
+DATE(LEFT(B56,4),MID(B56,5,2),RIGHT(B56,2))
+
 VLOOKUP(B2&$J2,IF({1,0},[1987.xlsx]WRDS!$C:$C&[1987.xlsx]WRDS!$D:$D,[1987.xlsx]WRDS!$H:$H),2,0)
 VLOOKUP(B2&$J2,IF({1,0},[1988.xlsx]WRDS!$C:$C&[1988.xlsx]WRDS!$D:$D,[1988.xlsx]WRDS!$H:$H),2,0)
 VLOOKUP(B2&$J2,IF({1,0},[1989.xlsx]WRDS!$C:$C&[1989.xlsx]WRDS!$D:$D,[1989.xlsx]WRDS!$H:$H),2,0)
