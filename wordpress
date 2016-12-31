@@ -1,0 +1,4 @@
+1. How to change the domain name of the wordpress
+- In the dashboard, got to setting-general to change the url
+- Change the domain name of the server
+- Point the domain to the server
