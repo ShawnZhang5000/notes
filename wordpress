@@ -3,5 +3,9 @@
 - Change the domain name of the server
 - Point the domain to the server
 
+2. How to increase the configuation of wordpress
+- https://premium.wpmudev.org/blog/increase-memory-limit/
+- make the change recursive
+suPHP_ConfigPath /home/username/public_html
 
-<!--The world's leading prototyping collaboration & workflow undefined, <h1>Prototyping</h1>collaboration & workflow latform.,Every single one of our jobs has some kind of flexibility option. -->
+
