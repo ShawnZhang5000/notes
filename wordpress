@@ -8,4 +8,10 @@
 - make the change recursive
 suPHP_ConfigPath /home/username/public_html
 
+3. How redirect the page if it is mobile device.
+ <script type="text/javascript">
+
+if (screen.width <= 699) {
+document.location = "mobile.html";
+}
 
