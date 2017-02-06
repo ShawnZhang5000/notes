@@ -28,3 +28,9 @@ RewriteRule . /index.php [L]
 suPHP_ConfigPath /home/satday5/public_html
 # END WordPress
 
+
+How to change the domain name:
+1. change the site link in wordpress
+2. Change the new domain's A record
+3. Change the nameserver
+4. Change the primary domain in inmotion hosting
